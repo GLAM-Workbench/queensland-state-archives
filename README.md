@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549574.svg)](https://doi.org/10.5281/zenodo.3549574)
+
 # Queensland State Archives
 
 Jupyter notebooks to work with data from Queensland State Archives.
